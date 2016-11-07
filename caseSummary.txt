@@ -1,0 +1,5 @@
+case0 (theft): 0.88 
+case1 (assault): 0.92 
+case2 (robbery): 0.80 
+case3 (sex. harass): 0.89 
+case4 (murder): 0.87 
